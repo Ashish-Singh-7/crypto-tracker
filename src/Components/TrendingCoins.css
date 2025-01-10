@@ -1,0 +1,21 @@
+.trending-section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .trending-coins {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .coin {
+    text-align: center;
+    margin: 10px;
+  }
+  .coin img {
+    width: 50px;
+    height: 50px;
+  }
+  
